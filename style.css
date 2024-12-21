@@ -1,0 +1,18 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+
+h1, h3 {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 900; /* Для заголовків можна використовувати жирний варіант */
+}
+h2{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 400; /* Для заголовків можна використовувати жирний варіант */
+}
+
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700; /* Звичайний текст */
+}
